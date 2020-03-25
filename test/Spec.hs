@@ -1,5 +1,5 @@
-import PdePreludat
 import Library
+import PdePreludat
 import Test.Hspec
 
 main :: IO ()
